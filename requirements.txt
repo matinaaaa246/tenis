@@ -1,0 +1,14 @@
+# =====================================================================
+# Tennis Quant & AI Intelligence — Version 1
+# Dependencies & Requirements
+# =====================================================================
+
+curl_cffi>=0.16.0
+requests>=2.31.0
+pydantic>=2.0.0
+openai>=1.40.0
+numpy>=1.24.0
+pandas>=2.0.0
+pyarrow>=26.0.0
+schedule>=1.2.0
+python-dotenv>=1.0.0
